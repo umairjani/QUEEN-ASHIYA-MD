@@ -1,5 +1,7 @@
 //═══════════════════════════════════════════════════════//
-//                    💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
+//                    💞 Maher BaBa 💕
+
+
 //                              
 //             
 //       𝕊𝕣𝕚 𝕃𝕒𝕟𝕜𝕒 𝔹𝕖𝕤𝕥  𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕆𝕋...
@@ -22,21 +24,21 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94786746412'] //your owner number
-global.premium = ['94786746412'] //your Owner number in menu msg
-global.ownernomer = '94786746412' //your owner number info
+global.owner = ['23066831885'] //your owner number
+global.premium = ['23066831885'] //your Owner number in menu msg
+global.ownernomer = '23066831885' //your owner number info
 
 global.ownername = 'Ishan Sandeepa' //your owner name
-global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
-global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
+global.botname = '💞 Maher BaBa  💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
+global.footer = '💞 Maher BaBa 💞' 
 
-global.ig = 'https://github.com/ishansandeepa757' //Github Account!
+global.ig = 'https://github.com/umairjani' //Github Account!
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/ishansandeepa757'
-global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix' //your chanal link
-global.packname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞'
+global.sc = 'https://github.com/'
+global.myweb = 'https://youtube.com/channel/UCg9J5mFkPdOJNciqxOV2Pgw' //your chanal link
+global.packname = '💞 Maher BaBa 💞'
 
-global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
+global.alivemsgimage = 'https://wallpaperaccess.com/fu8776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
 
 global.chatbotpre = "true"
 
