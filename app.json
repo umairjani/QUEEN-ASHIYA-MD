@@ -1,7 +1,7 @@
 {
-  "name": "💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞",
+  "name": "💞 Maher BaBa  💞",
   "description": "Sri Lanka World Best Whatsapp BOT",
-  "repository": "https://github.com/ishansandeepa757/QUEEN-ASHIYA-MD",
+  "repository": "",
   "logo": "https://i.ibb.co/3M1pzNm/Ashiya.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
@@ -9,13 +9,13 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": ""
     },
     {
-            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
+            "url": ""
         },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": ""
     }
   ],
    "formation": {
