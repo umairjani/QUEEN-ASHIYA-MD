@@ -36,7 +36,7 @@
 
 * ✏️ ඔයා Fock කරපු Git Hub එකට යන්න Session .json කියලා එකක් ඇති ඒකට ඔයාගෙ Session එක Upload කරන්න... 
 
-* ✏️ හරි දැන් වැඩේ ඉවරයි.. ඔයාට ඕනනම් Setting.js වල තියන Setting ඔයාට ඕන විදියට වෙනස් කර ගන්න පුලුවන් ..... හැබැයි තියන ඔක්කොම දේවල් නම් වෙනස් කරන්න යන්න එපා. එහෙම                උනොත්     බොටා වැඩ කරන්නෙ නැති වෙයි ඔන්න හරිද ... Owner Name , Owner Number මෙන්න මේ වගේ දේවල් විතරක් වෙනස් කරන්න මතක තියා ගන්න...
+* ✏️ හරි දැන් වැඩේ ඉවරයි.. ඔයාට ඕනනම් Setting.js වල තියන Setting ඔයාට ඕන විදියට වෙනස් කර ගන්න පුලුවන් ..... හැබැයි තියන ඔක්කොම දේවල් නම් වෙනස් කරන්න යන්න එපා. එහෙම                උනොත්     බොටා වැඩ කරන්නෙ නැති වෙයි ඔන්න හරිද ... Maher BaBa , 923066831885 මෙන්න මේ වගේ දේවල් විතරක් වෙනස් කරන්න මතක තියා ගන්න...
 
 
 ---- 
@@ -98,7 +98,7 @@
 
 *  ```Connect With Me```
 <p align="center">
-<a href="68673016112"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="923066831885"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a /><br>
 </p>
 
