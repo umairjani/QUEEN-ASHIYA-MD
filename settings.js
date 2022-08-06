@@ -24,9 +24,9 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['23066831885'] //your owner number
-global.premium = ['23066831885'] //your Owner number in menu msg
-global.ownernomer = '23066831885' //your owner number info
+global.owner = ['923066831885'] //your owner number
+global.premium = ['923066831885'] //your Owner number in menu msg
+global.ownernomer = '923066831885' //your owner number info
 
 global.ownername = 'Ishan Sandeepa' //your owner name
 global.botname = '💞 Maher BaBa  💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
